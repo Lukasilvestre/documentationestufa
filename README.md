@@ -27,7 +27,7 @@
 
 ## PInagem:
 
-
+![diagrama](https://github.com/Lukasilvestre/greenhouse_documentation/assets/127157371/3da94732-392c-4587-8982-9331405a45c0)
 
 ## Tecnologias Utilizadas:
 
