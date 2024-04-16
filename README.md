@@ -1,4 +1,7 @@
-<h1>Greenhouse_documentation</h1>
+
+![pngtree-diy-homegrown-greenhouse-greenhouse-w-sun-deck-and-plants-image_2941384](https://github.com/Lukasilvestre/greenhouse_documentation/assets/127157371/0691a8fe-1b88-4537-ad91-b8ea5a4a3a4c)
+
+<h1>Greenhouse_Documentation</h1>
 
 > Status:Developing ⚠️
 
