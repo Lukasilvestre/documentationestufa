@@ -3,6 +3,8 @@
 
 <h1>Greenhouse_Documentation</h1>
 
+![GitHub License](https://img.shields.io/github/license/:user/:repo)
+
 > Status:Developing ⚠️
 
 ### Esse é um projeto planejado pelo GSDE e desenvolvido por mim
@@ -20,6 +22,10 @@
 + Manuseio e regulagem da temperatura interna
 + Atuadores responsaveis para o desenvolvimento da planta
 + Estrutura responsavel para comportar o projeto
+
+## PInagem:
+
+
 
 ## Tecnologias Utilizadas:
 
