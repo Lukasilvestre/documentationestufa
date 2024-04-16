@@ -3,7 +3,7 @@
 
 <h1>Greenhouse_Documentation</h1>
 
-![NPM License](https://img.shields.io/npm/l/:packageName)
+![NPM License](https://img.shields.io/npm/l/:packageName)](https://github.com/Lukasilvestre/greenhouse_documentation/blob/main/LICENSE)
 
 
 > Status:Developing ⚠️
